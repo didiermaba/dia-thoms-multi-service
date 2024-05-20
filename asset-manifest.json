@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dia-thoms-multi-service/static/css/main.e6ae83c6.css",
+    "main.js": "/dia-thoms-multi-service/static/js/main.03c62948.js",
+    "static/media/logo-DT.png": "/dia-thoms-multi-service/static/media/logo-DT.e3b3a6773970c03faee3.png",
+    "static/media/window-cleaning-7778841_640.png": "/dia-thoms-multi-service/static/media/window-cleaning-7778841_640.49629a10ee9c63135f8a.png",
+    "index.html": "/dia-thoms-multi-service/index.html",
+    "main.e6ae83c6.css.map": "/dia-thoms-multi-service/static/css/main.e6ae83c6.css.map",
+    "main.03c62948.js.map": "/dia-thoms-multi-service/static/js/main.03c62948.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6ae83c6.css",
+    "static/js/main.03c62948.js"
+  ]
+}
